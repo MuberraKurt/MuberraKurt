@@ -2,10 +2,14 @@
 
 ## About Me
 
-Hello there! I am Müberra, a highly motivated and dedicated final-year Computer Engineering student with a strong passion for backend development.I love coding and building robust applications integrated with database management systems. I thrive in collaborative environments and enjoy solving complex problems.
+Hello there! I am Müberra, a highly motivated and dedicated final-year Computer Engineering student with a strong passion for backend development. I love coding and building robust applications integrated with database management systems. I thrive in collaborative environments and enjoy solving complex problems.
+
+Currently, I'm immersed in my thesis project, focusing on skin disease classification with AI. Leveraging deep learning techniques, particularly convolutional neural networks (CNNs), I aim to develop a robust classification model capable of accurately identifying various skin conditions from medical images. This project combines my interests in both computer engineering and healthcare, offering an exciting opportunity to contribute to the advancement of medical diagnostics through cutting-edge technology.
+
 
 ## My Interests
 
+- Artificial Intelligence
 - Backend Development
 - Database Management Systems
 - Software Solutions
