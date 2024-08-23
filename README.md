@@ -2,18 +2,17 @@
 
 ## About Me
 
-Hello there! I am Müberra, a highly motivated and dedicated final-year Computer Engineering student with a strong passion for backend development. I love coding and building robust applications integrated with database management systems. I thrive in collaborative environments and enjoy solving complex problems.
+Hello there! I am Müberra, a computer engineer with a strong passion for automation testing and backend development. As a fresh graduate, I bring hands-on experience in building and testing robust applications. My technical skills include Java, Spring Boot, Selenium, Cucumber, TestNG, and REST Assured, with a solid foundation in API testing.
 
-Currently, I'm immersed in my thesis project, focusing on skin disease classification with AI. Leveraging deep learning techniques, particularly convolutional neural networks (CNNs), I aim to develop a robust classification model capable of accurately identifying various skin conditions from medical images. This project combines my interests in both computer engineering and healthcare, offering an exciting opportunity to contribute to the advancement of medical diagnostics through cutting-edge technology.
+I thrive in collaborative environments where I can apply my knowledge to solve complex problems and contribute to high-quality software solutions. I'm eager to continue growing in the field and making a meaningful impact through my work.
 
 
 ## My Interests
 
-- Artificial Intelligence
-- Backend Development
-- Database Management Systems
-- Software Solutions
-- Problem-solving
+- Automation Testing: Skilled in creating and executing test scripts using tools like Selenium, Cucumber, and TestNG.
+- Backend Development: Proficient in Java and Spring Boot, with a focus on building scalable and efficient APIs.
+- API Testing: Experienced in testing and validating APIs to ensure they meet business requirements.
+- Problem-solving: Passionate about tackling technical challenges and optimizing software performance.
   
 ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
 ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png)
